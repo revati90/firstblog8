@@ -1,4 +1,4 @@
-name: First blog
+name: firstblog
 type: profile
 description: 'Install with commonly used features pre-configured.'
 version: VERSION
@@ -38,10 +38,11 @@ dependencies:
   - views_ui
   - tour
   - automated_cron
-  - blog
+  - blog_new
 themes:
   - bartik
   - seven
+  
 
 # Information added by Drupal.org packaging script on 2017-10-04
 version: '8.4.0'
