@@ -1,0 +1,15 @@
+uuid: 0f686116-020a-46fe-b1b8-e42050bb28d8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: I7zXRAJE1Ddp_dJeWv1D0uVNQZtqYbF74F4EZAxgp6o
+id: blogger
+label: blogger
+weight: 3
+is_admin: null
+permissions:
+  - 'create blog_demo content'
+  - 'delete own blog_demo content'
+  - 'edit own blog_demo content'
+  - 'revert blog_demo revisions'

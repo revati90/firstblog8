@@ -1,0 +1,7 @@
+name: 'Blog user'
+description: 'Create and enable a default user. '
+type: module
+core: 8.x
+dependencies:
+  - user
+version: 8.x-1.0
